@@ -15,14 +15,14 @@
    <h3 align="center">¡ Contáctame 👇!</h3>
    
 <p align="center">
-   <a href="mailto:flabradormb@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="flabradormb@gmail.com" height="40" width="40" />
+   <a href="https://twitter.com/FLabradorMB/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>&emsp;
    <a href="https://www.linkedin.com/in/fernandolabradorb/" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="40" width="40" />
   </a>&emsp;
-  <a href="https://twitter.com/FLabradorMB/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40" />
+   <a href="mailto:flabradormb@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="flabradormb@gmail.com" height="40" width="40" />
   </a>
 </p>
 
