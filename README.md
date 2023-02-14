@@ -7,7 +7,7 @@
 
 <p align="center">Me encuentro formandome como <strong>Desarrollador Web con preferencia en el Back-end </strong> <br /><br /></p>
 <p align="center">
-   Lenguajes utilizados hasta el momentento <strong>CSS, PYTHON, JAVASCRIPT , PHP </strong>  |  Frameworks <strong>Bootstrap, Django, Flask, React. </strong><br />
+   Lenguajes utilizados hasta el momentento <strong>CSS, PYTHON, JAVASCRIPT , PHP </strong>  |  Frameworks <strong>Bootstrap, Django, Flask. </strong><br />
 </p>
 
 <p align="center">
