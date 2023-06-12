@@ -5,7 +5,7 @@
 </h3>
 <!-- https://cdn.akamai.steamstatic.com/store/halloween2021/ojo.png-->
 
-<p align="center">Me encuentro formandome como <strong>Desarrollador Web con preferencia en el Back-end </strong> <br /><br /></p>
+<p align="center">Me encuentro formandome como <strong>Desarrollador de Software con preferencia en el Back-end </strong> <br /><br /></p>
 <p align="center">
    Lenguajes utilizados hasta el momentento <strong>CSS, PYTHON, JAVASCRIPT , PHP </strong>  |  Frameworks <strong>Bootstrap, Django, Flask. </strong><br />
 </p>
